@@ -1,0 +1,51 @@
+body{
+background-repeat: no-repeat;
+background-color: yellow;
+}
+.font{
+	font-size: 30px;
+	width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+	color: black;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.doodle{
+	width: fit-content;
+	height: 100%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.heading
+{
+    font-size: 25px;
+	color: black;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.note
+{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: black;
+	width: 100%;
+}
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    line-height: 3;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+canvas{
+	color: lightgreen;
+	box-shadow: 10px 10px 10px blue;
+	padding: 20px;
+	border-radius: 15px;
+}
